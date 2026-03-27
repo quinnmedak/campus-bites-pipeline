@@ -11,6 +11,3 @@ __pycache__/
 
 # OS files
 .DS_Store
-
-# Data files
-data/
